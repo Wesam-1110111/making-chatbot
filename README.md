@@ -3,8 +3,8 @@
 #### My target:
 1. ~~Learn Python.~~
 2. ~~Learn OOP.~~
-3. Learn `sys` & `os`.  
-  - ~~sys~~
+3. Learn `sys` & `os`.
+    - ~~sys~~
 4. Learn `numpy` & `pandas`.
 5. Learn ML: `scikit-learn`.
 6. Learn NLP: `nltk` & `spacy`.
