@@ -3,13 +3,13 @@
 #### My target:
 1. ~~Learn Python.~~
 2. ~~Learn OOP.~~
-3. Learn `sys` & `os`.
+3. Learn `sys` & `os`. **1-2 days**
     - ~~sys~~
-4. Learn `numpy` & `pandas`.
-5. Learn ML: `scikit-learn`.
-6. Learn NLP: `nltk` & `spacy`.
-7. Learn DL: `PyTorch` & `TensorFlow`.
-8. Start bulding the bot.
+4. Learn `numpy` & `pandas`. **3-4 days**
+5. Learn ML: `scikit-learn`. **5-7 days**
+6. Learn NLP: `nltk` & `spacy`. **7-10 days**
+7. Learn DL: `PyTorch` & `TensorFlow`. **10-14 days**
+8. Start bulding the bot. **10-14 days**
 
 
 
