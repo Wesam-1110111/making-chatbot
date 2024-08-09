@@ -1,0 +1,45 @@
+The os module in Python is a built-in library that provides a way to interact with the operating system. It allows you to perform various tasks such as file and directory manipulation, path handling, and executing system commands.
+
+Here are some key functionalities provided by the os module:
+
+1. File and Directory Management:
+os.listdir(path): Lists all files and directories in the specified path.
+os.remove(path): Deletes a specified file.
+os.rmdir(path): Deletes an empty directory.
+os.mkdir(path): Creates a new directory.
+os.makedirs(path): Creates multiple directories along a specified path.
+2. Path Handling:
+os.path.join(*paths): Joins multiple path components into a single path in a way that's compatible with the operating system.
+os.path.exists(path): Checks if a file or directory exists.
+os.path.abspath(path): Returns the absolute path of a file or directory.
+3. Executing System Commands:
+os.system(command): Executes a system command as if you were typing it in the command line.
+4. Environment and System Information:
+os.getenv(key, default=None): Retrieves the value of an environment variable.
+os.environ: Allows you to read or modify all environment variables.
+os.getlogin(): Returns the name of the user currently logged in.
+5. Process Management:
+os.getpid(): Returns the process ID of the current process.
+os.fork(): Creates a new process (available on Unix-based systems only).
+os.kill(pid, signal): Sends a signal to a specified process.
+
+Practical Example:
+
+----
+import os
+
+# Create a new directory
+os.mkdir("new_folder")
+
+# List files and directories in the current path
+print(os.listdir("."))
+
+# Check if the directory exists
+if os.path.exists("new_folder"):
+    print("The folder exists.")
+
+# Delete the directory
+os.rmdir("new_folder")
+
+----
+In summary, the os module provides powerful tools to interact with the operating system directly from a Python script.
