@@ -16,16 +16,16 @@ os.system('cd test')
 
 print(os.path)
 
-os.system('touch main.py')
+os.system('touch main.py') # for linux
 
-os.system('ls')
+os.system('ls') # for linux
 
 os.system('rm main.py')
 
-os.system('ls')
+os.system('ls') # for linux
 
 os.system('cd ..')
 
 os.system('rmdir test')
 
-os.system('ls')
+os.system('ls') # yon know ..
