@@ -3,8 +3,7 @@
 #### My target:
 1. ~~Learn Python.~~
 2. ~~Learn OOP.~~
-3. Learn `sys` & `os`. **1-2 days**
-    - ~~sys~~
+3. ~~Learn `sys` & `os`.~~ **1-2 days**
 4. Learn `numpy` & `pandas`. **3-4 days**
 5. Learn ML: `scikit-learn`. **5-7 days**
 6. Learn NLP: `nltk` & `spacy`. **7-10 days**
