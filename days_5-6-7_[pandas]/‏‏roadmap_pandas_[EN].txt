@@ -1,0 +1,67 @@
+Day 1: Basics and Understanding Data
+Objective: Understand the basics, create DataFrames, and explore data.
+Introduction to Pandas:
+
+Learn what Pandas is and what it offers for data manipulation.
+Install the library: pip install pandas.
+Read a brief introduction to Pandas from the official documentation or reliable learning resources.
+Series and DataFrames:
+
+Learn how to create Series and DataFrames.
+Understand the difference between them and how to work with each.
+Create DataFrames from Python dictionaries, lists, and simple CSV files.
+Exploring Data:
+
+Load data from CSV, Excel, or JSON files into a DataFrame.
+Use functions like head(), tail(), info(), describe() to understand the structure of your data and get basic information.
+Filter and index data using loc and iloc.
+Practical Tasks:
+Load a simple CSV file (e.g., employee data) and use the mentioned functions to explore the data.
+Day 2: Data Manipulation and Analysis
+Objective: Understand how to handle and manipulate data.
+Data Cleaning:
+
+Handle missing values using isnull(), dropna(), fillna().
+Rename columns using rename().
+Change data types using astype().
+Handling Text Data:
+
+Use string functions (str) to manipulate text data in columns.
+Extract parts of texts, convert texts to uppercase/lowercase.
+Merging and Joining Data:
+
+Combine datasets using merge(), concat(), join().
+Understand how to join tables using common keys.
+Mathematical and Statistical Operations:
+
+Perform mathematical operations like addition, subtraction, multiplication, and division on DataFrames.
+Calculate statistics like mean, median, and standard deviation using mean(), median(), std().
+Practical Tasks:
+Clean a dataset that contains missing values.
+Merge two different tables containing related information (e.g., customers and orders).
+Day 3: Advanced Analysis and Data Aggregation
+Objective: Learn how to perform advanced analysis and data aggregation.
+Grouping Data:
+
+Learn how to use groupby() to group data.
+Apply aggregation functions like sum(), count(), mean() to grouped data.
+Understand how to summarize data for specific groups.
+Transformation and Apply Functions:
+
+Use apply() to apply custom functions to your data.
+Use pivot_table() to create pivot tables for data analysis.
+Time Series Data:
+
+Work with time series data, convert dates to datetime format using pd.to_datetime().
+Extract parts of dates (year, month, day).
+Group data by time periods such as months or years.
+Saving and Exporting Data:
+
+Save modified data to CSV or Excel files using to_csv() and to_excel().
+Practical Tasks:
+Perform data analysis using groupby() to generate multiple statistics.
+Create a pivot table to analyze data based on different criteria.
+Load, process, and aggregate time series data based on a time period.
+Additional Tips:
+Try working on a small project that involves real-world data, such as analyzing sales data or weather data.
+Look for challenges or data analysis competitions on platforms like Kaggle to apply what you've learned.
