@@ -5,9 +5,9 @@
 2. ~~Learn OOP.~~
 3. ~~Learn `sys` & `os`.~~ **1-2 days**
 4. Learn Data Analysis:
--  ~~`numpy`.~~ **2 days**
+1.  ~~`numpy`.~~ **2 days**
 - ~~Quiz.~~ **1 day**
--  `pandas`. **3-4 days**  **<--- I'm here**
+2.  `pandas`. **3-4 days**  **<--- I'm here**
 -  Quiz. **1 day**
 5. Learn Machine Learning:
 -  `scikit-learn`. **5-7 days**
