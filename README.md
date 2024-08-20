@@ -7,8 +7,8 @@
 4. Learn Data Analysis:
     - ~~`numpy`.~~  **2 days**
     - ~~Quiz.~~  **1 day**
-    - `pandas`.  **3-4 days**   **<--- I'm here**
-    -  Quiz.  **1 day**
+    - ~~`pandas`.~~  **4 days**
+    -  Quiz.  **1 day**  **<--- I'm here**
 5. Learn Machine Learning:
     -  `scikit-learn`.  **5-7 days**
 6. Learn Neuro-Linguistic Programming **NLP**:
