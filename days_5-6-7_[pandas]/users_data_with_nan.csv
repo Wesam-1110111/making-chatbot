@@ -1,0 +1,6 @@
+User ID,Name,Age,Email,Country
+101,Alice,25.0,alice@example.com,USA
+102,Bob,,bob@example.com,UK
+103,Charlie,30.0,,France
+104,David,22.0,david@example.com,
+105,Eve,,eve@example.com,Germany
