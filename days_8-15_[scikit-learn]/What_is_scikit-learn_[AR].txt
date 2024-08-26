@@ -1,0 +1,59 @@
+Scikit-learn هي مكتبة مفتوحة المصدر في لغة البرمجة Python، تُستخدم بشكل واسع في مجال التعلم الآلي (Machine Learning). توفر المكتبة مجموعة غنية من الأدوات لبناء وتدريب وتقييم نماذج التعلم الآلي بسهولة وكفاءة.
+
+مميزات scikit-learn:
+سلاسة الاستخدام:
+
+تم تصميمها لتكون سهلة الفهم والاستخدام، خاصة لمن لديهم معرفة سابقة بـ NumPy و Pandas.
+تنوع النماذج:
+
+تحتوي المكتبة على العديد من الخوارزميات الأساسية والمتقدمة في التعلم الآلي مثل الانحدار (Regression)، التصنيف (Classification)، العنقدة (Clustering)، وخوارزميات التخفيض البعدي (Dimensionality Reduction).
+أدوات التقييم والتحليل:
+
+توفر scikit-learn أدوات متعددة لتقييم أداء النماذج مثل cross-validation، confusion matrix، و ROC curves.
+إمكانية التوسع:
+
+يمكن دمج scikit-learn بسهولة مع مكتبات أخرى مثل NumPy، Pandas، و Matplotlib لتوسيع القدرات التحليلية والبصرية.
+مجموعات البيانات المدمجة:
+
+توفر scikit-learn مجموعة من مجموعات البيانات الصغيرة المدمجة التي يمكن استخدامها للتدريب والاختبار مثل مجموعة بيانات Iris و Digits.
+حالات الاستخدام:
+التصنيف: مثل تصنيف البريد الإلكتروني كرسائل مزعجة أو غير مزعجة.
+الانحدار: مثل التنبؤ بأسعار المنازل.
+العنقدة: مثل تجميع العملاء إلى مجموعات متشابهة بناءً على سلوكهم الشرائي.
+التخفيض البعدي: لتقليل عدد الميزات في مجموعة بيانات كبيرة دون فقدان الكثير من المعلومات.
+مثال بسيط:
+لتوضيح كيفية استخدام scikit-learn، إليك مثال بسيط لبناء نموذج تصنيف باستخدام LogisticRegression:
+
+python
+Copy code
+from sklearn.datasets import load_iris
+from sklearn.model_selection import train_test_split
+from sklearn.linear_model import LogisticRegression
+from sklearn.metrics import accuracy_score
+
+# تحميل البيانات
+iris = load_iris()
+X, y = iris.data, iris.target
+
+# تقسيم البيانات إلى مجموعات تدريب واختبار
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+
+# بناء النموذج
+model = LogisticRegression()
+
+# تدريب النموذج
+model.fit(X_train, y_train)
+
+# التنبؤ باستخدام النموذج
+y_pred = model.predict(X_test)
+
+# تقييم الأداء
+accuracy = accuracy_score(y_test, y_pred)
+print(f"Accuracy: {accuracy}")
+في هذا المثال:
+
+قمنا بتحميل بيانات Iris، وهي مجموعة بيانات شهيرة لتصنيف أنواع الزهور.
+قسمنا البيانات إلى مجموعات تدريب واختبار.
+بنينا نموذج Logistic Regression، ثم قمنا بتدريبه باستخدام بيانات التدريب.
+أخيرًا، قمنا بتقييم النموذج باستخدام دقة التصنيف.
+scikit-learn هي أداة قوية وشاملة لأي شخص يريد البدء في التعلم الآلي باستخدام Python.

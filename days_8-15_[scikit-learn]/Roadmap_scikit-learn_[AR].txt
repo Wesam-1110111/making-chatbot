@@ -1,0 +1,40 @@
+اليوم الأول: مقدمة إلى scikit-learn
+تعرف على الأساسيات:
+فهم الهيكلية العامة لـ scikit-learn.
+التعرف على كيفية تحميل مجموعات البيانات المدمجة في المكتبة مثل Iris و Digits.
+فهم الخطوات الأساسية لبناء النموذج: import، instantiate، fit، predict، و evaluate.
+اليوم الثاني: الانحدار (Regression)
+دراسة Linear Regression:
+بناء نموذج باستخدام LinearRegression.
+استخدام دوال التقييم مثل mean_squared_error.
+دراسة Polynomial Regression:
+تطبيق الانحدار متعدد الحدود باستخدام PolynomialFeatures.
+اليوم الثالث: التصنيف (Classification)
+دراسة Logistic Regression:
+بناء نموذج تصنيف باستخدام LogisticRegression.
+تطبيقه على مجموعات بيانات مثل Iris.
+استكشاف Support Vector Machines (SVM):
+التعرف على كيفية استخدام SVC للتصنيف.
+فهم أهمية المعاملات مثل C و gamma.
+اليوم الرابع: خوارزميات أخرى للتصنيف
+تعلم Decision Trees و Random Forests:
+بناء نموذج باستخدام DecisionTreeClassifier.
+استكشاف Ensemble Methods مثل RandomForestClassifier.
+استكشاف K-Nearest Neighbors (KNN):
+بناء نموذج باستخدام KNeighborsClassifier.
+اليوم الخامس: العنقدة (Clustering)
+استكشاف K-Means Clustering:
+تطبيق العنقدة باستخدام KMeans.
+تحليل النتائج بصريًا باستخدام Matplotlib.
+استكشاف Hierarchical Clustering و DBSCAN.
+اليوم السادس: تحسين النماذج
+تعلم Cross-Validation و Grid Search:
+استخدام cross_val_score لتحسين أداء النموذج.
+تطبيق GridSearchCV لاختيار المعاملات المثلى.
+استكشاف Pipelines:
+دمج خطوات التحضير وبناء النموذج في عملية واحدة باستخدام Pipeline.
+اليوم السابع: مشروع تطبيقي
+اختر مجموعة بيانات حقيقية من Kaggle أو مصادر أخرى.
+قم بتطبيق ما تعلمته لبناء نموذج كامل بدءًا من تنظيف البيانات إلى تقييم الأداء.
+حاول تحسين النموذج باستخدام الأساليب التي تعلمتها.
+بهذا الأسلوب ستحصل على فهم جيد لكيفية استخدام scikit-learn في بناء نماذج Machine Learning متنوعة وتحسينها.
