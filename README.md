@@ -8,9 +8,9 @@
     - ~~`numpy`.~~  **2 days**
     - ~~Quiz.~~  **1 day**
     - ~~`pandas`.~~  **4 days**
-    -  Quiz.  **1 day**  **<--- I'm here**
+    -  Quiz.  **1 day**  
 5. Learn Machine Learning:
-    -  `scikit-learn`.  **5-7 days**
+    -  `scikit-learn`.  **5-7 days**  **<--- I'm here**
 6. Learn Neuro-Linguistic Programming **NLP**:
     -  `nltk`.  **5 days**
     -  `spacy`.  **5 days**
