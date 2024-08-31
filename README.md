@@ -9,8 +9,9 @@
     - ~~Quiz.~~  **1 day**
     - ~~`pandas`.~~  **4 days**
     - ~~Quiz.~~  **1 day**
+    - Break  **<--- I'm here**
 5. Learn Machine Learning:
-    -  `scikit-learn`.  **5-7 days**  **<--- I'm here**
+    -  `scikit-learn`.  **5-7 days**
 6. Learn Neuro-Linguistic Programming **NLP**:
     -  `nltk`.  **5 days**
     -  `spacy`.  **5 days**
@@ -31,3 +32,6 @@
 - Pycharm.
 - Windows Command line 'cmd'.
 - And of course alot of Coffee :)
+
+
+**Warring:** __To learn all of it, you need more time then i wrote..__
