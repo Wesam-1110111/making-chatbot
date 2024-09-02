@@ -1,5 +1,6 @@
 # This is my trip into learning AI to make ChatBot
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/release/python-31013/)
+![Static Badge](https://img.shields.io/badge/Hello-World!-green)
 
 ### My target:
 1. ~~Learn Python.~~
