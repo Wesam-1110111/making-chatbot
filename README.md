@@ -36,4 +36,5 @@
 - And of course alot of Coffee :)
 
 
-<span style="color:red">**Warning:** __To learn all of it, you need more time then i wrote..__</span>
+**Warning: To learn all of it, you need more time than I wrote.**
+
