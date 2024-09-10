@@ -1,6 +1,10 @@
 # This is my trip into learning AI to make ChatBot
+<div align="center">
+    
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/release/python-31013/)
 ![Static Badge](https://img.shields.io/badge/Hello-World!-green)
+
+</div>
 
 ### My target:
 1. ~~Learn Python.~~
@@ -36,4 +40,9 @@
 - And of course alot of Coffee :)
 
 
+<<<<<<< HEAD
 **Warning:** __To learn all of it, you need more time then i wrote..__
+=======
+**Warning: To learn all of it, you need more time than I wrote.**
+
+>>>>>>> 1cf08b33dc54c48f6f2254dba45b6278c50e3fb6
