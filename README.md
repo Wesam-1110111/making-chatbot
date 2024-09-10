@@ -20,7 +20,7 @@
 7. Learn Deep Learning **DL**:
     -  `PyTorch`.  **5-7 days**
     -  `TensorFlow`.  **5-7 days**
-8. Start bulding the bot.  **10-14 days**
+8. Start building the bot.  **10-14 days**
 
 
 ### Tools I use:
@@ -36,4 +36,4 @@
 - And of course alot of Coffee :)
 
 
-<span style="color:red">**Warning:** __To learn all of it, you need more time then i wrote..__</span>
+**Warning:** __To learn all of it, you need more time then i wrote..__
