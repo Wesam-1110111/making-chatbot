@@ -40,9 +40,8 @@
 - And of course alot of Coffee :)
 
 
-<<<<<<< HEAD
 **Warning:** __To learn all of it, you need more time then i wrote..__
 =======
 **Warning: To learn all of it, you need more time than I wrote.**
 
->>>>>>> 1cf08b33dc54c48f6f2254dba45b6278c50e3fb6
+
